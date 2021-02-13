@@ -1,0 +1,1 @@
+# Conversor_Temperatura_PyQt5
